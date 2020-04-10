@@ -1,2 +1,8 @@
 # TripperAndTracker
-Learning Kotlin android development
+
+## Main goals
+ - learn kotlin language
+ - get better at making Android apps
+ 
+
+
